@@ -3,8 +3,9 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url("/fondo-port.jpg");
-    background-size: cover;
+    background-color: blanchedalmond;
+    /*background-image: url("/fondo-port.jpg");
+    background-size: cover;*/
 }
 
 /*si o no*/
