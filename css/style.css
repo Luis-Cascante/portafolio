@@ -3,11 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-<<<<<<< HEAD
-    background-image: url("/fondo-port.png");
-=======
     background-image: url(/fondo-port.jpg);
->>>>>>> a3ba2acbdb40f77496592ede9c39334d0361d1b2
     background-size: cover; 
 }
 
