@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url("/fondo-port.jpg");
+    background-size: cover;
 }
 
 /*si o no*/
